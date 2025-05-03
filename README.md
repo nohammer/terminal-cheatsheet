@@ -1,12 +1,12 @@
 # terminal-cheatsheet
 A simple and practical terminal cheatsheet with the most useful commands for beginners and developers.
-# 🧠 Terminal Cheatsheet for Developers
+#  Terminal Cheatsheet for Developers
 
 A compact, no-nonsense guide with essential terminal commands for working efficiently as a developer on macOS/Linux.
 
 ---
 
-## 🔁 Navigation & Filesystem
+##  Navigation & Filesystem
 
 ```bash
 pwd             # Show current directory
@@ -20,7 +20,7 @@ rm file.txt     # Delete file
 rm -rf folder/  # Force delete folder recursively
 ```
 
-## 📝 File Operations
+##  File Operations
 
 ```bash
 cat file.txt             # Show file contents
@@ -29,7 +29,7 @@ cp file1.txt file2.txt   # Copy file
 mv old.txt new.txt       # Rename or move file
 ```
 
-## 🔎 Search & Filter
+##  Search & Filter
 
 ```bash
 grep 'hello' file.txt         # Find 'hello' in file
@@ -37,7 +37,7 @@ ps aux | grep python          # Find Python processes
 find . -name "*.py"           # Find all Python files
 ```
 
-## 📦 Package Management (Debian-based)
+##  Package Management (Debian-based)
 
 ```bash
 sudo apt update           # Update package index
@@ -45,7 +45,7 @@ sudo apt upgrade          # Upgrade packages
 sudo apt install git      # Install git
 ```
 
-## 🔧 Process & System
+##  Process & System
 
 ```bash
 top                      # Live system processes
@@ -54,7 +54,7 @@ kill 1234                # Kill process with PID 1234
 clear                    # Clear terminal screen
 ```
 
-## 🛰️ Networking
+## Networking
 
 ```bash
 curl http://example.com         # Make HTTP request
@@ -62,7 +62,7 @@ ping google.com                 # Ping server
 ifconfig / ip a                # Show IP info (macOS/Linux)
 ```
 
-## 🗃️ Git Basics
+##  Git Basics
 
 ```bash
 git clone <url>               # Clone repo
@@ -75,4 +75,4 @@ git pull                      # Pull latest changes
 
 ---
 
-> 👨‍💻 Made for beginners, dreamers & future power users. Keep hacking!
+>
